@@ -1,0 +1,13 @@
+D:\Udemy\C# OOP\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.exe
+D:\Udemy\C# OOP\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.deps.json
+D:\Udemy\C# OOP\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.json
+D:\Udemy\C# OOP\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.dev.json
+D:\Udemy\C# OOP\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.dll
+D:\Udemy\C# OOP\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.pdb
+D:\Udemy\C# OOP\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csproj.CoreCompileInputs.cache
+D:\Udemy\C# OOP\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfoInputs.cache
+D:\Udemy\C# OOP\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfo.cs
+D:\Udemy\C# OOP\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.dll
+D:\Udemy\C# OOP\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.pdb
+D:\Udemy\C# OOP\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.genruntimeconfig.cache
+D:\Udemy\C# OOP\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csprojAssemblyReference.cache
